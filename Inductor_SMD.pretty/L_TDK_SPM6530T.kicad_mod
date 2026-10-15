@@ -11,7 +11,9 @@
  (fp_line (start -3.66 1.95) (end -3.66 3.36) (stroke (width 0.12) (type solid)) (layer "F.SilkS"))
  (fp_line (start 3.66 -3.36) (end 3.66 -1.95) (stroke (width 0.12) (type solid)) (layer "F.SilkS"))
  (fp_line (start 3.66 1.95) (end 3.66 3.36) (stroke (width 0.12) (type solid)) (layer "F.SilkS"))
- (fp_rect (start -3.95 -3.65) (end 3.95 3.65) (stroke (width 0.05) (type solid)) (fill no) (layer "F.CrtYd"))
+ (fp_rect (start -3.954 -3.554) (end 3.954 3.554) (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd"))
  (pad "1" smd roundrect (at -2.775 0) (size 1.85 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.135135))
  (pad "2" smd roundrect (at 2.775 0) (size 1.85 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.135135))
+
+	(model "${KICAD_3RD_PARTY}/3dmodels/Inductor_SMD.3dshapes/TDK_SPM6530T_simplified.wrl" (offset (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0)))
 )
