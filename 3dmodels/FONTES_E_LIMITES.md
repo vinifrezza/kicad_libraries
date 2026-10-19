@@ -71,3 +71,9 @@ Manufacturer body14.75x14.5mm;1.85mm maximum height (model1.75nominal); pegs0.8m
 
 Fonte: https://www.xyeconn.com/product/ljqxl/tfkazuo/223.html
 
+
+## XKB TS-1187A-B-A-B
+
+Modelo STEP original do fabricante: `Button_Switch_SMD.3dshapes/XKB_TS-1187A-B-A-B.step`. Corpo5,1×5,1mm e altura1,5mm. Rotação de associação(-90,0,-90) para adaptar os eixos nativos do CAD aos pads KiCad.
+
+[Download original](https://www.helloxkb.com/public/images/zip/TS-1187A-B-A-B.zip) · [Série e documentação](https://www.helloxkb.com/Home/Goods/goodsInfo/id/34.html).
