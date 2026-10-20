@@ -1,0 +1,14 @@
+(footprint
+"SolderPad_1x01_D1.8mm_Drill1.0mm"
+(version 20260130)
+(generator "pcbnew")
+(layer "F.Cu")
+(descr "Bare round plated solder pad, diameter 1.8 mm, drill 1.0 mm; no assembled component")
+(tags "wire solder pad PTH")
+(property "Reference" "REF**" (at 0 -2 0) (layer "F.SilkS") (hide yes) (effects (font (size 1 1) (thickness .15))))
+(property "Value" "SolderPad" (at 0 2 0) (layer "F.Fab") (hide yes) (effects (font (size 1 1) (thickness .15))))
+(attr exclude_from_pos_files exclude_from_bom)
+(fp_text user "${VALUE}" (at 1.4 0 0) (layer "F.SilkS") (effects (font (size 1 1) (thickness .15)) (justify left)))
+(fp_rect (start -1.15 -1.15) (end 1.15 1.15) (stroke (width .05) (type default)) (fill none) (layer "F.CrtYd"))
+(pad "1" thru_hole circle (at 0 0) (size 1.8 1.8) (drill 1) (layers "*.Cu" "*.Mask"))
+)
